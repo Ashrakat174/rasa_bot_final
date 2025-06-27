@@ -1,0 +1,8 @@
+# Ignore environment and cache
+mega_env/
+venv/
+.env
+.rasa/cache/
+__pycache__/
+*.pyc
+models/

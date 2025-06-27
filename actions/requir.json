@@ -1,0 +1,2182 @@
+[
+  {
+    "code": "HU101",
+    "name": "مدخل الي الجودة",
+    "credit_hours": 0,
+    "lecture_hours": 1,
+    "lab_hours": 0,
+    "prereq_id": 1,
+    "prerequisites": null,
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري جامعة",
+    "level": 1,
+    "term": 1
+  },
+  {
+    "code": "HU102",
+    "name": "حقوق الإنسان",
+    "credit_hours": 0,
+    "lecture_hours": 1,
+    "lab_hours": 0,
+    "prereq_id": 1,
+    "prerequisites": null,
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري جامعة",
+    "level": 1,
+    "term": 2
+  },
+  {
+    "code": "HU111",
+    "name": "كتابة التقارير الفنية",
+    "credit_hours": 2,
+    "lecture_hours": 2,
+    "lab_hours": 0,
+    "prereq_id": 1,
+    "prerequisites": null,
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 1,
+    "term": 1
+  },
+  {
+    "code": "HU112",
+    "name": "التفكير الإبداعي ومهارات الاتصال",
+    "credit_hours": 2,
+    "lecture_hours": 2,
+    "lab_hours": 0,
+    "prereq_id": 1,
+    "prerequisites": null,
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 1,
+    "term": 2
+  },
+  {
+    "code": "HU121",
+    "name": "الأخلاق والمهنية",
+    "credit_hours": 2,
+    "lecture_hours": 2,
+    "lab_hours": 0,
+    "prereq_id": 1,
+    "prerequisites": null,
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 1,
+    "term": 2
+  },
+  {
+    "code": "HU122",
+    "name": "أساسيات إدارة المشروعات",
+    "credit_hours": 2,
+    "lecture_hours": 2,
+    "lab_hours": 0,
+    "prereq_id": 1,
+    "prerequisites": null,
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 1,
+    "term": 2
+  },
+  {
+    "code": "HU123",
+    "name": "موضوعات مختارة في الإنسانيات",
+    "credit_hours": 2,
+    "lecture_hours": 2,
+    "lab_hours": 0,
+    "prereq_id": 1,
+    "prerequisites": null,
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 1,
+    "term": 2
+  },
+  {
+    "code": "HU124",
+    "name": "التسويق والمبيعات",
+    "credit_hours": 2,
+    "lecture_hours": 2,
+    "lab_hours": 0,
+    "prereq_id": 1,
+    "prerequisites": null,
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 1,
+    "term": 2
+  },
+  {
+    "code": "HU125",
+    "name": "أساسيات الاقتصاد",
+    "credit_hours": 2,
+    "lecture_hours": 2,
+    "lab_hours": 0,
+    "prereq_id": 1,
+    "prerequisites": null,
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 1,
+    "term": 2
+  },
+  {
+    "code": "MA111",
+    "name": "التفاضل والتكامل",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": null,
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 1,
+    "term": 1
+  },
+  {
+    "code": "MA112",
+    "name": "تراكيب محددة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": null,
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 1,
+    "term": 1
+  },
+  {
+    "code": "MA113",
+    "name": "الجبر الخطي",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": null,
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 1,
+    "term": 2
+  },
+  {
+    "code": "PH111",
+    "name": "مبادئ الإلكترونيات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": null,
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 1,
+    "term": 1
+  },
+  {
+    "code": "PH112",
+    "name": "ميكانيكا الكهرومغناطيسية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": [
+      "مبادئ الإلكترونيات"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 1,
+    "term": 1
+  },
+  {
+    "code": "MA114",
+    "name": "احصاء واحتمالات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": [
+      " التفاضل والتكامل"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 1,
+    "term": 2
+  },
+  {
+    "code": "MA211",
+    "name": "الأسس الرياضية للحوسبة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": [
+      "تراكيب محددة"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 2,
+    "term": 1
+  },
+  {
+    "code": "MA121",
+    "name": "حساب التفاضل",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": [
+      " التفاضل والتكامل"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 1,
+    "term": null
+  },
+  {
+    "code": "MA122",
+    "name": "المعادلات التفاضلية , الجبر الخطي",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": [
+      " التفاضل والتكامل"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 1,
+    "term": null
+  },
+  {
+    "code": "MA123",
+    "name": "نظرية المصفوفات التطبيقية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": [
+      "الجبر الخطى"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 1,
+    "term": null
+  },
+  {
+    "code": "MA124",
+    "name": "مقدمة في التوافقية وتطبيقاتها",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": [
+      "تراكيب محددة"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 1,
+    "term": null
+  },
+  {
+    "code": "MA125",
+    "name": "نظرية المجموعة التطبيقية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": [
+      "الجبر الخطى"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 1,
+    "term": null
+  },
+  {
+    "code": "MA126",
+    "name": "نظرية الأعداد التطبيقية ونظرية المجال",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": [
+      "تراكيب محددة"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 1,
+    "term": null
+  },
+  {
+    "code": "MA127",
+    "name": "الطرق الرياضية المستمرة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": [
+      " التفاضل والتكامل",
+      "الجبر الخطى"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 1,
+    "term": null
+  },
+  {
+    "code": "MA128",
+    "name": "حساب التفاضل المتجهة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": [
+      " التفاضل والتكامل"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 1,
+    "term": null
+  },
+  {
+    "code": "MA129",
+    "name": "مقدمة في الحوسبة العلمية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 2,
+    "prerequisites": [
+      " التفاضل والتكامل",
+      "الجبر الخطى"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 1,
+    "term": null
+  },
+  {
+    "code": "CS111",
+    "name": "برمجة هيكلية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": null,
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 1,
+    "term": 1
+  },
+  {
+    "code": "CS112",
+    "name": "برمجة شيئية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": [
+      "برمجة هيكلية"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 1,
+    "term": 2
+  },
+  {
+    "code": "CS113",
+    "name": "تصميم منطقي",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": [
+      "مبادئ الإلكترونيات"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 1,
+    "term": 2
+  },
+  {
+    "code": "CS211",
+    "name": "الخوارزميات و هياكل البيانات ",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": [
+      "برمجة شيئية"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 2,
+    "term": 1
+  },
+  {
+    "code": "CS212",
+    "name": "مقدمة في هندسة البرمجيات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": [
+      "برمجة هيكلية"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 2,
+    "term": 1
+  },
+  {
+    "code": "CS213",
+    "name": "مقدمة في نظم قواعد البيانات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": [
+      "الخوارزميات وهياكل البيانات"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 2,
+    "term": 2
+  },
+  {
+    "code": "CS214",
+    "name": "نظم التشغيل",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": [
+      "الخوارزميات وهياكل البيانات"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 2,
+    "term": 2
+  },
+  {
+    "code": "CS215",
+    "name": "معالجة الصور الرقمية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": [
+      " التفاضل والتكامل",
+      "الجبر الخطى"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 2,
+    "term": 2
+  },
+  {
+    "code": "CS311",
+    "name": "شبكات الحاسب",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": [
+      "برمجه شيئيه"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 1
+  },
+  {
+    "code": "CS221",
+    "name": "البرمجة لعلوم البيانات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": [
+      "برمجه شيئيه"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 2,
+    "term": null
+  },
+  {
+    "code": "CS222",
+    "name": "مقدمة في تصميم التفاعل بين الإنسان والحاسوب",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": [
+      "برمجه شيئيه"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 2,
+    "term": null
+  },
+  {
+    "code": "CS223",
+    "name": " الحوسبة المتوازية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": [
+      "التصميم المنطقى",
+      "الخوارزميات وهياكل البيانات"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 2,
+    "term": null
+  },
+  {
+    "code": "CS224",
+    "name": "التنقيب عن البيانات الضخمة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": [
+      "الجبر الخطى",
+      "الخوارزميات وهياكل البيانات"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 2,
+    "term": null
+  },
+  {
+    "code": "CS225",
+    "name": "مقدمة في الحاسب",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": [
+      "إشارة رقمية"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 2,
+    "term": null
+  },
+  {
+    "code": "CS226",
+    "name": "مقدمة في الامثلية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 3,
+    "prerequisites": [
+      " التفاضل والتكامل"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اختياري",
+    "level": 2,
+    "term": null
+  },
+  {
+    "code": "AI211",
+    "name": "الذكاء الاصطناعي: المبادئ والتقنيات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 4,
+    "prerequisites": [
+      "احصاء واحتمالات",
+      "الخوارزميات وهياكل البيانات "
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 2,
+    "term": 1
+  },
+  {
+    "code": "AI212",
+    "name": "مقدمة في تعلم الآلة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 4,
+    "prerequisites": [
+      " الجبر الخطى",
+      "احصاء واحتمالات"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 2,
+    "term": 2
+  },
+  {
+    "code": "AI213",
+    "name": "أساسيات الأمن السيبراني",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 4,
+    "prerequisites": [
+      "الجبر الخطى"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 2,
+    "term": 2
+  },
+  {
+    "code": "AI214",
+    "name": "علم البيانات والتحليلات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 4,
+    "prerequisites": [
+      "احصاء واحتمالات",
+      "مقدمة في تعلم الآلة"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 2,
+    "term": 2
+  },
+  {
+    "code": "AI311",
+    "name": "مقدمة في النظرية الاليه والمعقدة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 4,
+    "prerequisites": [
+      "تراكيب محددة"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 1
+  },
+  {
+    "code": "AI312",
+    "name": "مقدمة في علم الروبوتات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 4,
+    "prerequisites": [
+      "الذكاء الاصطناعي: المبادئ والتقنيات"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 1
+  },
+  {
+    "code": "AI313",
+    "name": "البرمجة المنطقية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 4,
+    "prerequisites": [
+      "الذكاء الاصطناعي: المبادئ والتقنيات",
+      "الأسس الرياضية للحوسبة"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 1
+  },
+  {
+    "code": "AI314",
+    "name": "التعلم العميق",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 4,
+    "prerequisites": [
+      "احصاء واحتمالات",
+      "برمجة هيكلية"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 1
+  },
+  {
+    "code": "AI315",
+    "name": "الرؤية بالحاسب",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 4,
+    "prerequisites": [
+      "معالجة الصور الرقمية",
+      "احصاء واحتمالات",
+      "البرمجة لعلوم البيانات"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 1
+  },
+  {
+    "code": "AI316",
+    "name": "تعلم الآلة التطبيقي",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "مقدمة في تعلم الآلة"
+    ],
+    "department": [
+      "علوم البيانات",
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "AI317",
+    "name": "معالجة اللغة الطبيعية مع التعلم العميق",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      " التفاضل والتكامل",
+      "احصاء واحتمالات",
+      "التعلم العميق"
+    ],
+    "department": [
+      "علوم البيانات",
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "AI318",
+    "name": "التعلم المعزز",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      " التفاضل والتكامل",
+      "الخوارزميات وهياكل البيانات "
+    ],
+    "department": [
+      "علوم البيانات",
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "DS311",
+    "name": "مقدمة في الإدراك",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "الخوارزميات وهياكل البيانات ",
+      "احصاء واحتمالات",
+      "الجبر الخطى"
+    ],
+    "department": [
+      "علوم البيانات",
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "AI411",
+    "name": "اتخاذ القرار ومبدأ الشك",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "احصاء واحتمالات"
+    ],
+    "department": [
+      "علوم البيانات",
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 1
+  },
+  {
+    "code": "AI412",
+    "name": "التعلم التمثيلي للرؤية بالحاسب",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "اتخاذ القرار ومبدأ الشك",
+      "الرؤية بالحاسب",
+      "مقدمة في تعلم الآلة"
+    ],
+    "department": [
+      "علوم البيانات",
+      "ذكاء الاله",
+      "النظم الذكيه"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 1
+  },
+  {
+    "code": "DS411",
+    "name": "البرمجة اللغوية العصبية: من اللغة إلى المعلومات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "احصاء واحتمالات",
+      "الأسس الرياضية للحوسبة",
+      "برمجة شيئية"
+    ],
+    "department": [
+      "علوم البيانات",
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 1
+  },
+  {
+    "code": "DS312",
+    "name": "أساسيات علم البيانات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "برمجة شيئية"
+    ],
+    "department": [
+      "علوم البيانات"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "DS313",
+    "name": "مقدمة في تقنيات البيانات الضخمة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "أساسيات علم البيانات"
+    ],
+    "department": [
+      "علوم البيانات",
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "DS412",
+    "name": "تحليل البيانات الفئوية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "الجبر الخطى",
+      "احصاء واحتمالات"
+    ],
+    "department": [
+      "علوم البيانات"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 2
+  },
+  {
+    "code": "DS413",
+    "name": "البيانات المرئية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "أساسيات علم البيانات"
+    ],
+    "department": [
+      "علوم البيانات"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 2
+  },
+  {
+    "code": "DS414",
+    "name": "النماذج العميقة المتولدة ",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "احصاء واحتمالات",
+      " التفاضل والتكامل",
+      "مقدمة في تعلم الآلة"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 2
+  },
+  {
+    "code": "DS420",
+    "name": "الإحصاء التطبيقي الحديث: التعلم",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "احصاء واحتمالات"
+    ],
+    "department": [
+      "علوم البيانات"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": 1
+  },
+  {
+    "code": "DS421",
+    "name": "الإحصاء التطبيقي الحديث: التنقيب في البيانات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "الإحصاء التطبيقي الحديث: التعلم"
+    ],
+    "department": [
+      "علوم البيانات",
+      "النظم الذكيه"
+    ],
+    "type": "اختياري",
+    "level": null,
+    "term": null
+  },
+  {
+    "code": "DS422",
+    "name": "علم الجينوم الحاسوبي",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "الخوارزميات وهياكل البيانات "
+    ],
+    "department": [
+      "علوم البيانات"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "AI421",
+    "name": "معالجة اللغة الطبيعية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "احصاء واحتمالات",
+      " التفاضل والتكامل",
+      "الجبر الخطى",
+      "مقدمة في تعلم الآلة"
+    ],
+    "department": [
+      "علوم البيانات",
+      "ذكاء الاله"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "AI422",
+    "name": "المنطق الحسابي",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "الأسس الرياضية للحوسبة"
+    ],
+    "department": [
+      "علوم البيانات",
+      "ذكاء الاله"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "DS428",
+    "name": "موضوعات مختارة في علوم البيانات-1",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "اجتياز  60 ساعة"
+    ],
+    "department": [
+      "علوم البيانات"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "DS429",
+    "name": "موضوعات مختارة في علوم البيانات-2",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "اجتياز  60 ساعة"
+    ],
+    "department": [
+      "علوم البيانات"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "MI311",
+    "name": "هندسة البرمجيات المتقدمة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "مقدمة في هندسة البرمجيات",
+      "الخوارزميات وهياكل البيانات "
+    ],
+    "department": [
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "MI312",
+    "name": "تصميم وتنفيذ تطبيقات قواعد البيانات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "مقدمة في نظم قواعد البيانات"
+    ],
+    "department": [
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "MI313",
+    "name": "حلول وتطبيقات تعتمد على البيانات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "احصاء واحتمالات",
+      "علم البيانات والتحليلات"
+    ],
+    "department": [
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "MI411",
+    "name": "الشبكات العصبية التلافيفية للتعرف البصري",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "التعلم العميق"
+    ],
+    "department": [
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 1
+  },
+  {
+    "code": "MI412",
+    "name": "الأنظمة المدمجة والوقت الحقيقي",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "نظم التشغيل"
+    ],
+    "department": [
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 1
+  },
+  {
+    "code": "MI413",
+    "name": "الأساليب الاحتمالية في الذكاء الاصطناعي",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "احصاء واحتمالات",
+      "مقدمة في تعلم الآلة",
+      "الذكاء الاصطناعي: المبادئ والتقنيات"
+    ],
+    "department": [
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 2
+  },
+  {
+    "code": "MI414",
+    "name": "ألعاب الذكاء",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "الذكاء الاصطناعي: المبادئ والتقنيات",
+      "برمجة شيئية"
+    ],
+    "department": [
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 2
+  },
+  {
+    "code": "MI307",
+    "name": "الرؤية بالحاسب: من إعادة البناء ثلاثي الأبعاد إلى التعرف عليه",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "احصاء واحتمالات",
+      "مقدمة في تعلم الآلة",
+      "برمجة شيئية",
+      "الجبر الخطى"
+    ],
+    "department": [
+      "ذكاء الاله"
+    ],
+    "type": "اختياري",
+    "level": 3,
+    "term": null
+  },
+  {
+    "code": "MI406",
+    "name": "الهندسة الاجتماعية للأمن السيبراني",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "أساسيات الأمن السيبراني",
+      "مقدمة في هندسة البرمجيات"
+    ],
+    "department": [
+      "ذكاء الاله",
+      "الامن السيبرانى"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": 1
+  },
+  {
+    "code": "MI407",
+    "name": "معالجة اللغة المنطوقة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "برمجة شيئية",
+      "معالجة اللغة الطبيعية مع التعلم العميق"
+    ],
+    "department": [
+      "ذكاء الاله"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "MI428",
+    "name": "موضوعات مختارة في ذكاء الآلة -1",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "اجتياز 60 ساعة"
+    ],
+    "department": [
+      "ذكاء الاله"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "MI429",
+    "name": "موضوعات مختارة في الذكاء الآلي-2",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "اجتياز 60 ساعة"
+    ],
+    "department": [
+      "ذكاء الاله"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "CY301",
+    "name": "مقدمة في علم التشفير",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "الجبر الخطى"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "CY302",
+    "name": "مقدمة في أمن المعلومات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": null,
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "CY303",
+    "name": "تطوير وتحليل البرمجيات الآمنة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "الخوارزميات وهياكل البيانات"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "CY304",
+    "name": "برمجة الويب مع الأمن السيبراني",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "أساسيات الأمن السيبراني"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "CY305",
+    "name": "أمن الوسائط المتعددة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "برمجة شيئية"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "CY306",
+    "name": "الأمن الخلوي واللاسلكي",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": null,
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "CY411",
+    "name": "أمن الشبكات والحوسبة السحابية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": null,
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 1
+  },
+  {
+    "code": "CY412",
+    "name": "معمارية وهندسة الأمن",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "مقدمة في أمن المعلومات"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 1
+  },
+  {
+    "code": "CY413",
+    "name": "مقدمة في الطب الشرعي الرقمي",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": null,
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 1
+  },
+  {
+    "code": "CY414",
+    "name": "حماية البنية التحتية الحساسة ",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "أمن الشبكات والحوسبة السحابية"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 2
+  },
+  {
+    "code": "CY415",
+    "name": "أمن نظم معلومات الرعاية الصحية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "أمن الوسائط المتعددة"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 2
+  },
+  {
+    "code": "CY416",
+    "name": "أمن  برامج الأنظمة ",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "مقدمة في أمن المعلومات"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 2
+  },
+  {
+    "code": "CY420",
+    "name": "سياسة الأمن السيبراني والحوكمة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "مقدمة في أمن المعلومات"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "CY421",
+    "name": "معالجة المعلومات الكميه",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "الجبر الخطى"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "CY422",
+    "name": "ادارة الشبكة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "أمن الشبكات والحوسبة السحابية"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "CY423",
+    "name": "الهندسة العكسية للبرامج وتحليل البرامج الخبيثة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "برمجة شيئية"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "CY424",
+    "name": "تعلم الآلة للأمن السيبراني",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "أساسيات الأمن السيبراني",
+      "مقدمة في تعلم الآلة",
+      "مقدمة في علم الروبوتات"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "CY425",
+    "name": "الاتصالات الكميه",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "معالجة المعلومات الكميه"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "CY426",
+    "name": "أمن الأنظمة الفيزيائية السيبراني",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "شبكات الحاسب",
+      "مقدمة في أمن المعلومات"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "CY427",
+    "name": "المبادئ الأساسية لأخلاقيات الاختراق",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "نظم التشغيل"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "CY428",
+    "name": "الطب الشرعي الرقمي المتقدم",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "مقدمة في الطب الشرعي الرقمي"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "CY429",
+    "name": "موضوعات مختارة في الأمن السيبراني-1",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "اجتياز 60 ساعة"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "CY430",
+    "name": "موضوعات مختارة في الأمن السيبراني-2",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "اجتياز 60 ساعة"
+    ],
+    "department": [
+      "الامن السيبرانى"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "IE414",
+    "name": "تصميم الأنظمة الحقيقية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "معالجة الإشارات الرقمية والتحكم فيها"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 2
+  },
+  {
+    "code": "IE411",
+    "name": "الروبوتات والأنظمة الذكية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      " التفاضل والتكامل",
+      "مقدمة في علم الروبوتات"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 1
+  },
+  {
+    "code": "IE312",
+    "name": "مقدمة في العلوم المعرفية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": null,
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "IE311",
+    "name": "معالجة الإشارات الرقمية والتحكم فيها",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      " التفاضل والتكامل",
+      "الأسس الرياضية للحوسبة"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "IE313",
+    "name": "مقدمة لتصميم FPGA للأنظمة المدمجة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "تصميم منطقي",
+      "الرؤية بالحاسب",
+      "التعلم العميق"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "IE415",
+    "name": "التعلم العميق للسيارات ذاتية القيادة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "التعلم العميق"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 2
+  },
+  {
+    "code": "IE314",
+    "name": "مقدمة إلى إنترنت الأشياء ",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "البرمجة المنطقية"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "IE315",
+    "name": "الخوارزميات التطورية والشبكات العصبية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "الذكاء الاصطناعي: المبادئ والتقنيات"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "IE416",
+    "name": "الأجهزة الذكية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "شبكات الحاسب",
+      "مقدمة إلى إنترنت الأشياء "
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 2
+  },
+  {
+    "code": "IE420",
+    "name": "تحسين التعلم الآلي",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "مقدمة في تعلم الآلة"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "IE421",
+    "name": "إدارة الأنظمة الذكية في المدن الذكية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "معالجة الإشارات الرقمية والتحكم فيها"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "IE422",
+    "name": "مقدمة في الرؤية والروبوتات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "الرؤيه بالحاسب"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "IE423",
+    "name": "الروبوتات الذكية المستقلة",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "مقدمة في الرؤية والروبوتات"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "IE424",
+    "name": "أساسيات التفاعل المعرفي مع الروبوتات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "مقدمة في العلوم المعرفية"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "IE425",
+    "name": "نظام دعم القرار الذكي",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": null,
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "IE426",
+    "name": "لتفكير الكمي والطرق الإحصائية للمخططين.",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "احصاء واحتمالات"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "IE427",
+    "name": "الممارسة المهنية في الأنظمة الاصطناعية",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "الأسس الرياضية للحوسبة",
+      "مقدمة في هندسة البرمجيات"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "IE428",
+    "name": "موضوعات مختارة في الأنظمة الذكية-1",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "اجتياز 60 ساعة"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "IE429",
+    "name": "موضوعات مختارة في الأنظمة الذكية-2",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 6,
+    "prerequisites": [
+      "اجتياز 60 ساعة"
+    ],
+    "department": [
+      "النظم الذكيه"
+    ],
+    "type": "اختياري",
+    "level": 4,
+    "term": null
+  },
+  {
+    "code": "IE316",
+    "name": "مقدمة في علم النفس: الإحساس والإدراك",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": null,
+    "department": [
+      "النظم الذكيه",
+      "علوم البيانات"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": 2
+  },
+  {
+    "code": "IE412",
+    "name": "الرؤية الاصطناعية والتعرف على الأنماط",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "معالجة الصور الرقمية"
+    ],
+    "department": [
+      "النظم الذكيه",
+      "علوم البيانات",
+      "ذكاء الاله"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 1
+  },
+  {
+    "code": "IE413",
+    "name": "ذكاء الوكلاء وتنقيب البيانات",
+    "credit_hours": 3,
+    "lecture_hours": 2,
+    "lab_hours": 2,
+    "prereq_id": 5,
+    "prerequisites": [
+      "الذكاء الاصطناعي: المبادئ والتقنيات"
+    ],
+    "department": [
+      "النظم الذكيه",
+      "علوم البيانات"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": 1
+  },
+  {
+    "code": "TR301",
+    "name": "التدريب الميداني",
+    "credit_hours": 2,
+    "lecture_hours": 0,
+    "lab_hours": 0,
+    "prereq_id": 7,
+    "prerequisites": [
+      "اجتياز 60 ساعة"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 3,
+    "term": null
+  },
+  {
+    "code": "GP441",
+    "name": "مشروع التخرج",
+    "credit_hours": 6,
+    "lecture_hours": 0,
+    "lab_hours": 12,
+    "prereq_id": 0,
+    "prerequisites": [
+      "اجتياز 96 ساعة"
+    ],
+    "department": [
+      "كل الاقسام"
+    ],
+    "type": "اجباري",
+    "level": 4,
+    "term": null
+  }
+]

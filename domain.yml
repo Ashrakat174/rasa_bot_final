@@ -1,0 +1,79 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - ask_faq
+  - analyze_student
+
+
+actions:
+  - action_rag_answer
+  - action_student_analysis
+
+responses:
+  utter_greet:
+    - text: "اهلا: كيف يمكننى مساعدتك؟"
+
+  utter_cheer_up:
+    - text: "Here is something to cheer you up:"
+      image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+    - text: "Did that help you?"
+
+  utter_happy:
+    - text: "Great, carry on!"
+
+  utter_goodbye:
+    - text: "مع السلامة: إذا كنت بحاجة إلى مساعدة أخرى، فلا تتردد في العودة."
+
+  utter_iamabot:
+    - text: "انا بوت ذكاء اصطناعى للرد على استفساراتك التى صنعنى فريق G5."
+
+slots:
+  student_name:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: custom
+  level:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: custom
+  term:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: custom
+  gpa:
+    type: float
+    influence_conversation: false
+    mappings:
+      - type: custom
+  department:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: custom
+  removed_subjects:
+    type: list
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+  passed_courses:
+    type: list
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
